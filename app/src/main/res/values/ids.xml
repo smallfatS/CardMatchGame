@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="id_card_view0" type="id"/>
+    <item name="id_card_view1" type="id"/>
+    <item name="id_card_view2" type="id"/>
+    <item name="id_card_view3" type="id"/>
+    <item name="id_card_view4" type="id"/>
+    <item name="id_card_view5" type="id"/>
+    <item name="id_card_view6" type="id"/>
+    <item name="id_card_view7" type="id"/>
+
+
+</resources>
